@@ -1,0 +1,6 @@
+[build]
+  command = "pelican content -s publishconf.py"
+  publish = "output"
+
+[context.production.environment]
+  PELICAN_ENV = "production"
