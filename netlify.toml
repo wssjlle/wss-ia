@@ -1,6 +1,9 @@
 [build]
-  command = "pelican content -s publishconf.py"
+  command = "pelican content"
   publish = "output"
 
-[context.production.environment]
-  PELICAN_ENV = "production"
+[build.environment]
+  PYTHON_VERSION = "3.10"
+
+[[plugins]]
+  package = "netlify-plugin-python"
