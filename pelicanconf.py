@@ -12,3 +12,4 @@ LOCALE = 'pt_BR.UTF-8'
 
 THEME = 'themes/Flex'
 DEFAULT_PAGINATION = 10
+STATIC_PATHS = ['static']
