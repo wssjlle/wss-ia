@@ -1,4 +1,4 @@
 from pelicanconf import *
 
 SITEURL = 'https://wss-ia.netlify.app'
-RELATIVE_URLS = True
+RELATIVE_URLS = False
