@@ -18,4 +18,4 @@ Ao dar push no GitHub, o Netlify builda e publica automaticamente.
 
 ## Admin
 
-Acesse: https://seu-site.netlify.app/admin
+Acesse: https://wss-ia.netlify.app/admin

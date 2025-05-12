@@ -1,6 +1,7 @@
 AUTHOR = 'Wanderlei SS'
 SITENAME = 'WSS-IA'
-SITEURL = ''
+SITEURL = 'wss-ia.netlify.app'
+SITEDESCRIPTION = 'Inteligência Artificial, Python, Blender e UPBGE'
 SITESUBTITLE = 'Tecnologia, Python, IA, Blender e UPBGE'
 
 
